@@ -2,7 +2,19 @@ body {
     background-image: url("./assets/alexander-grey-62vi3TG5EDg-unsplash.jpg");
 }
 
-footer.logo {
-    height: 32 px;
-    width: 32 px;
+header {
+    background: white;
+    margin-bottom: 25px;
+    padding: 10px;
+    width: 50vh;
+    margin: 25px;
+}
+
+div.logInSignUpform {
+    height: 50vh;
+    width: 50vh;
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 25px;
 }
